@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1452030122616_1" label="02_junit_javadoc" name="02_junit_javadoc">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_javadoc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_unit_test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_coding_standard" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1452030249036_3" label="03_strukturierung" name="03_strukturierung">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_klassen_und_pakete" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_information_hiding" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_jars_einbinden" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1452082647672_4" label="04_objektorientierung" name="04_objektorientierung">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/11_singleton" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/10_static" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04b_vererbung" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_vararg" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04_vererbung" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05_polymorphie" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06_ueberschreiben" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_ueberladen" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07_abstrakte_klassen" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/13_solid" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_konstruktoren" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/12_static_factory" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/09_final" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08_interfaces" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1453907359949_5" label="05_object_wrapper" name="05_object_wrapper">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_clone" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_equals_hashcode" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_tostring" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04_wrapper" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1453910424177_6" label="06_ausnahmen" name="06_ausnahmen">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04_ausnahmen_testen" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_try_catch" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_finally" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_handle_or_declare" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05_eigene_ausnahmen" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1453910589572_7" label="07_enumerationen" name="07_enumerationen">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_enumeration_verwenden" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_eigene_enumeration" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1453910859793_8" label="08_generics" name="08_generics">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_generischen_typ_verwenden" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_einfacher_generischer_typ" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_wildcards" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04_super_extends" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1453911138322_9" label="09_geschachtelte_klassen" name="09_geschachtelte_klassen">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_static_member_class" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05_callback" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06_lambdas" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04_anonymous_class" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_nonstatic_member_class" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_local_class" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1453911333449_10" label="10_collections" name="10_collections">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_iterator_schreiben" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_iterieren" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04_set" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05_map" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_list" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06_sortieren" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1453911567513_11" label="11_streams" name="11_streams">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_interne_iteration" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_map_filter" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_reduce" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1453911827715_12" label="12_threads" name="12_threads">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_runnable" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04_race_condition" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_threads_vereinigen" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_thread_beenden" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05_wait_notify" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1453912263481_13" label="13_io" name="13_io">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/01_date_lesen" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06_filter" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/09_file" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/10_serialisierung" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08_random_access" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04_reader_writer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07_konsole" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05_buffered_reader" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_data_output" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_datei_schreiben" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1477856220157_0" label="Window Working Set" name="Aggregate for window 1477856220157"/>
+</workingSetManager>

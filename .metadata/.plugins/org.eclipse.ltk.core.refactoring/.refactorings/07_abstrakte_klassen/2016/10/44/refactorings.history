@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;Figuren&apos; in &apos;tpe.oo.abstrakt.Geometer.main(...)&apos; to &apos;figuren&apos;&#x0D;&#x0A;- Original project: &apos;07_abstrakte_klassen&apos;&#x0D;&#x0A;- Original element: &apos;tpe.oo.abstrakt.Geometer.main(String[]).Figuren&apos;&#x0D;&#x0A;- Renamed element: &apos;Figuren&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;Figuren&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;tpe.oo.abstrakt{Geometer.java[Geometer~main~\[QString;@Figuren!335!366!343!349!\[QFigur;!0!false" name="figuren" references="true" stamp="1477908789834" version="1.0"/>
+</session>

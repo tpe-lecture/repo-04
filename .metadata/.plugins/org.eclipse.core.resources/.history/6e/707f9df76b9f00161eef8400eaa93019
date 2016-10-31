@@ -1,0 +1,5 @@
+package tpe.oo.interfaces.impl;
+
+public class AnalogControllerImp {
+
+}

@@ -1,0 +1,5 @@
+package tpe.oo.interfaces.api;
+
+public interface AnalogConroller {
+
+}
