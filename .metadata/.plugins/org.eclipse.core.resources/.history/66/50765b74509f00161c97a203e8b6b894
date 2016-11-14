@@ -1,9 +1,0 @@
-package tpe.oo.abstrakt;
-
-public abstract class Figur {
-
-    public static void main(String[] args) {
-
-    }
-
-}
