@@ -5,6 +5,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 import tpe.enumeration.own.Wuerfel;
+import tpe.enumeration.own.Wuerfeltyp;
 
 /**
  * Test für die Würfel.
@@ -19,7 +20,7 @@ public class TestWuerfel {
      */
     @Test
     public void testFairnessD4() {
-        internalTestFairness(new Wuerfel(Wuerfel.D4), 2.5);
+        internalTestFairness(new Wuerfel(Wuerfeltyp.D4), 2.5);
     }
 
     /**
@@ -27,7 +28,7 @@ public class TestWuerfel {
      */
     @Test
     public void testFairnessD6() {
-        internalTestFairness(new Wuerfel(Wuerfel.D6), 3.5);
+        internalTestFairness(new Wuerfel(Wuerfeltyp.D6), 3.5);
     }
 
     /**
@@ -35,7 +36,7 @@ public class TestWuerfel {
      */
     @Test
     public void testFairnessD8() {
-        internalTestFairness(new Wuerfel(Wuerfel.D8), 4.5);
+        internalTestFairness(new Wuerfel(Wuerfeltyp.D8), 4.5);
     }
 
     /**
@@ -43,7 +44,7 @@ public class TestWuerfel {
      */
     @Test
     public void testFairnessD10() {
-        internalTestFairness(new Wuerfel(Wuerfel.D10), 5.5);
+        internalTestFairness(new Wuerfel(Wuerfeltyp.D10), 5.5);
     }
 
     /**
@@ -51,7 +52,7 @@ public class TestWuerfel {
      */
     @Test
     public void testFairnessD12() {
-        internalTestFairness(new Wuerfel(Wuerfel.D12), 6.5);
+        internalTestFairness(new Wuerfel(Wuerfeltyp.D12), 6.5);
     }
 
     /**

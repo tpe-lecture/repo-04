@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="tpe.oo.interfaces.api.DigitalController"/>
 <fullyQualifiedTypeName name="tpe.oo.interfaces.api.AnalogController"/>
+<fullyQualifiedTypeName name="tpe.enumeration.own.Wuerfeltyp"/>
+<fullyQualifiedTypeName name="java.util.Stack"/>
 </qualifiedTypeNameHistroy>

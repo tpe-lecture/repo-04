@@ -1,4 +1,4 @@
-# Aufgabe: Eine vorhandene Enumeration nutzen
+  # Aufgabe: Eine vorhandene Enumeration nutzen
 
 ## Lernziel
 

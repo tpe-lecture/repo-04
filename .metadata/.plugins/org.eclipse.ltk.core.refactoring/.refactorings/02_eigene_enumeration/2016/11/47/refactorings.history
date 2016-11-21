@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;tpe.enumeration.own.Wuerfeltyp.seiten&apos; in &apos;tpe.enumeration.own.Wuerfeltyp&apos;&#x0D;&#x0A;- Original project: &apos;02_eigene_enumeration&apos;&#x0D;&#x0A;- Original element: &apos;tpe.enumeration.own.Wuerfeltyp.seiten&apos;&#x0D;&#x0A;- Getter method name: &apos;getSeiten&apos;&#x0D;&#x0A;- Setter method name: &apos;setSeiten&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;seiten&apos;" flags="589830" getter="getSeiten" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;tpe.enumeration.own{Wuerfeltyp.java[Wuerfeltyp^seiten" insertion="1" setter="setSeiten" stamp="1479724756905" version="1.0" visibility="1"/>
+</session>
