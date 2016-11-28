@@ -4,4 +4,7 @@
 <fullyQualifiedTypeName name="tpe.oo.interfaces.api.AnalogController"/>
 <fullyQualifiedTypeName name="tpe.enumeration.own.Wuerfeltyp"/>
 <fullyQualifiedTypeName name="java.util.Stack"/>
+<fullyQualifiedTypeName name="com.sun.glass.events.MouseEvent"/>
+<fullyQualifiedTypeName name="java.awt.event.MouseEvent"/>
+<fullyQualifiedTypeName name="java.awt.event.MouseAdapter"/>
 </qualifiedTypeNameHistroy>

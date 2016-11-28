@@ -21,7 +21,7 @@ public class GameBoard extends Board {
 
     /** Münzstapel. */
     // TODO: Münzen als Stack speichern
-    Stack<Sprite> coins = new Stack<>();
+    private Stack<Sprite> coins = new Stack<>();
 
     /** A moving coin. */
     private Sprite moving;
