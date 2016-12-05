@@ -89,9 +89,5 @@
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03_data_output" type="4"/>
 <item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02_datei_schreiben" type="4"/>
 </workingSet>
-<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1479988516893_14" label="Reversi" name="Reversi">
-<item elementID="=Reversi" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1477856220157_0" label="Window Working Set" name="Aggregate for window 1477856220157"/>
-<mruList name="Reversi"/>
 </workingSetManager>

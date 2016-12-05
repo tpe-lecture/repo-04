@@ -57,7 +57,6 @@ INDEX VERSION 1.129+C:\Users\Bäst\TPE\repo-04\.metadata\.plugins\org.eclipse.jdt
 2921088020.index
 1161501068.index
 1265578742.index
-1387060770.index
 2738286310.index
 2345728522.index
 1290069272.index
@@ -70,8 +69,8 @@ INDEX VERSION 1.129+C:\Users\Bäst\TPE\repo-04\.metadata\.plugins\org.eclipse.jdt
 2632822506.index
 3119455041.index
 2017505986.index
-1027721827.index
 3194644666.index
+1027721827.index
 1044960377.index
 486699731.index
 279094134.index
