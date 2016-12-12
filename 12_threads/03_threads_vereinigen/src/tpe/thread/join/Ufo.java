@@ -12,6 +12,7 @@ import de.smits_net.games.framework.image.StripedImage;
  */
 public class Ufo extends AnimatedImage implements Runnable {
 
+    Thread t = new Thread();
     /** X-Position des Ufos. */
     private int x;
 

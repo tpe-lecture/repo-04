@@ -1,5 +1,9 @@
 package tpe.testate.crypter;
 
+/**
+ * class to crypt or encrypt an input string
+ *
+ */
 public class CrypterImpl implements Crypter {
 
 	@Override

@@ -7,4 +7,6 @@
 <fullyQualifiedTypeName name="com.sun.glass.events.MouseEvent"/>
 <fullyQualifiedTypeName name="java.awt.event.MouseEvent"/>
 <fullyQualifiedTypeName name="java.awt.event.MouseAdapter"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
 </qualifiedTypeNameHistroy>
